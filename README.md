@@ -9,7 +9,28 @@ This project focuses on preprocessing, augmenting, and merging two real-world da
 Additionally, a **Bonus Challenge** involves training a machine learning model to predict customer spending.
 
 ---
+GitHub Repository Structure
 
+customer-spending-prediction/
+│
+├── README.md                             # Project documentation
+├── report.pdf                            # PDF report summarizing the project
+│
+├── data/
+│   ├── customer_transactions.csv          # Initial transaction dataset
+│   ├── customer_social_profiles.csv      # Initial social profiles dataset
+│   ├── id_mapping.csv                    # Initial ID mapping dataset
+│   ├── customer_transactions_augmented.csv  # Derived dataset (Part 1)
+│   ├── final_customer_data_[group8].csv  # Derived dataset (Part 2)
+│   └── final_dataset_ready_[group8].csv  # Derived dataset (Part 3)
+│
+├── notebooks/
+│   └── customer_spending_prediction.ipynb  # Google Colab notebook for the project
+│
+├── models/                                # Folder for trained models (Bonus Challenge)
+│   └── customer_spending_model.pkl       # Trained Random Forest model
+│
+└── assets/                                # Optional: Folder for screenshots or visuals
 
 ---
 
