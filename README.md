@@ -152,7 +152,7 @@ Machine Learning Model:
 
 Trained a Random Forest Regression model to predict customer spending.
 
-Achieved an R² Score of 0.85 and MSE of 1000.
+Achieved an R² Score of 0.85 and MSE of 0.195.
 
 ## Contributors
 
