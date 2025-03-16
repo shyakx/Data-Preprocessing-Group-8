@@ -79,7 +79,7 @@ customer-spending-prediction/
    - Create a **Customer Engagement Score** using `purchase_amount` and `purchase_interest_score`.
    - Calculate **moving averages** of `purchase_amount`.
 4. **Export the Final Preprocessed Data:**
-   - Save the merged and feature-engineered dataset as `final_customer_data_[groupNumber].csv`.
+   - Save the merged and feature-engineered dataset as `final_customer_data_[group 8].csv`.
 
 ---
 
@@ -94,13 +94,13 @@ customer-spending-prediction/
    - Identify highly correlated features using a correlation heatmap.
    - Select the top 10 most important features using feature importance.
 4. **Export the Final Dataset:**
-   - Save the final dataset as `final_dataset_ready_[groupNumber].csv`.
+   - Save the final dataset as `final_dataset_ready_[group 8].csv`.
 
 ---
 
 ### Bonus Challenge: Predict Customer Spending
 1. **Prepare the Data:**
-   - Load `final_dataset_ready_[groupNumber].csv`.
+   - Load `final_dataset_ready_[group 8].csv`.
    - Split the data into training and testing sets.
    - Scale numerical features (if necessary).
 2. **Train a Machine Learning Model:**
