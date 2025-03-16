@@ -10,7 +10,7 @@ Additionally, a **Bonus Challenge** involves training a machine learning model t
 
 ---
 GitHub Repository Structure
-
+```
 customer-spending-prediction/
 │
 ├── README.md                             # Project documentation
@@ -31,7 +31,7 @@ customer-spending-prediction/
 │   └── customer_spending_model.pkl       # Trained Random Forest model
 │
 └── assets/                                # Optional: Folder for screenshots or visuals
-
+```
 ---
 
 ## Datasets
