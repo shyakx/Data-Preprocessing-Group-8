@@ -29,8 +29,6 @@ customer-spending-prediction/
 │
 ├── models/                                # Folder for trained models (Bonus Challenge)
 │   └── customer_spending_model.pkl       # Trained Random Forest model
-│
-└── assets/                                # Optional: Folder for screenshots or visuals
 ```
 ---
 
