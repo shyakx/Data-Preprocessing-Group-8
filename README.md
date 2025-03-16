@@ -13,22 +13,22 @@ GitHub Repository Structure
 ```
 customer-spending-prediction/
 │
-├── README.md                             # Project documentation
-├── report.pdf                            # PDF report summarizing the project
+├── README.md                             
+├── report.pdf                            
 │
 ├── data/
-│   ├── customer_transactions.csv          # Initial transaction dataset
-│   ├── customer_social_profiles.csv      # Initial social profiles dataset
-│   ├── id_mapping.csv                    # Initial ID mapping dataset
-│   ├── customer_transactions_augmented.csv  # Derived dataset (Part 1)
-│   ├── final_customer_data_[group8].csv  # Derived dataset (Part 2)
-│   └── final_dataset_ready_[group8].csv  # Derived dataset (Part 3)
+│   ├── customer_transactions.csv         
+│   ├── customer_social_profiles.csv      
+│   ├── id_mapping.csv                    
+│   ├── customer_transactions_augmented.csv  
+│   ├── final_customer_data_[group8].csv  
+│   └── final_dataset_ready_[group8].csv  
 │
 ├── notebooks/
-│   └── customer_spending_prediction.ipynb  # Google Colab notebook for the project
+│   └── customer_spending_prediction.ipynb  
 │
-├── models/                                # Folder for trained models (Bonus Challenge)
-│   └── customer_spending_model.pkl       # Trained Random Forest model
+├── models/                                
+│   └── customer_spending_model.pkl       
 ```
 ---
 
