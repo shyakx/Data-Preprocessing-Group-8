@@ -1,4 +1,4 @@
-# Customer Spending Prediction Project
+# Data Preprocessing Project
 
 ## Overview
 This project focuses on preprocessing, augmenting, and merging two real-world datasets to predict customer spending behavior using machine learning. The project is divided into three main parts:
@@ -60,11 +60,11 @@ customer-spending-prediction/
    - Load `customer_transactions.csv`.
 2. **Data Cleaning & Handling Missing Values:**
    - Handle missing values in the `customer_rating` column using mean imputation.
-   - I used the predictive modelling technique to fill in missing values
+   - used the predictive modelling technique to fill in missing values as well
 3. **Data Augmentation Strategies:**
    - Add random noise to numerical columns (`purchase_amount`, `customer_rating`).
    - Apply log transformation to `purchase_amount`.
-   - Generate synthetic transactions to expand the dataset.
+   - Generated synthetic data using K-means Clustering.
 4. **Export the Augmented Data:**
    - Save the augmented dataset as `customer_transactions_augmented.csv`.
 
