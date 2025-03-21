@@ -155,6 +155,8 @@ Trained a Random Forest Regression model to predict customer spending.
 
 Achieved an R² Score of 0.85 and MSE of 0.195.
 
+Demo Presentation: https://youtu.be/me_e_VNfxLo
+
 ## Contributors
 
 &#x20;
