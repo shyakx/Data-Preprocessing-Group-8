@@ -14,7 +14,7 @@ GitHub Repository Structure
 customer-spending-prediction/
 │
 ├── README.md                             
-├── report.pdf                            
+├── Data Preprocessing Project_Report.pdf                          
 │
 ├── data/
 │   ├── customer_transactions.csv         
