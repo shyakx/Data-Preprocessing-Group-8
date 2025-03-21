@@ -60,6 +60,7 @@ customer-spending-prediction/
    - Load `customer_transactions.csv`.
 2. **Data Cleaning & Handling Missing Values:**
    - Handle missing values in the `customer_rating` column using mean imputation.
+   - I used the predictive modelling technique to fill in missing values
 3. **Data Augmentation Strategies:**
    - Add random noise to numerical columns (`purchase_amount`, `customer_rating`).
    - Apply log transformation to `purchase_amount`.
